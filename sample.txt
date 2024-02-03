@@ -1,1 +1,7 @@
-hello.git-
+
+
+hello.git 
+hello this is srusti
+few more changes madewq
+:wq
+
