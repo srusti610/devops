@@ -1,9 +1,18 @@
+<<<<<<< HEAD
 hello.git
 hello this is srusti
 few more changes madewq
 :wq
-this is new file that being added.
+
 
 
  
+=======
+
+
+hello.git 
+hello this is srusti
+few more changes madewq
+:wq
+>>>>>>> main
 
