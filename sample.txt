@@ -1,7 +1,18 @@
+<<<<<<< HEAD
+hello.git
+hello this is srusti
+few more changes madewq
+:wq
+
+
+
+ 
+=======
 
 
 hello.git 
 hello this is srusti
 few more changes madewq
 :wq
+>>>>>>> main
 
